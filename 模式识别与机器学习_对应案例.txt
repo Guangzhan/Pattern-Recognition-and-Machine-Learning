@@ -1,0 +1,65 @@
+一、模式识别概述
+	案例1：常见概率分布的实现：https://mooc.study.163.com/course/1000031001#/info  2.10小节
+二、贝叶斯分类设计
+	案例2：最小错误率的贝叶斯决策 https://blog.csdn.net/u011591807/article/details/83006727
+	案例3：最小风险的贝叶斯决策 https://www.jianshu.com/p/6f5273c09359
+	案例4：朴素贝叶斯文本分类：https://www.cnblogs.com/luozeng/p/8605090.html
+二、判别函数分析
+	案例5：Fisher判别分析：https://blog.csdn.net/u012005313/article/details/50933517
+三、回归的线性模型
+	案例6：贝叶斯线性回归的实现：https://github.com/WillKoehrsen/Data-Analysis/tree/master/bayesian_lr
+四、分类的线性模型
+	案例7：贝叶斯线性回归模型实战：https://github.com/jzhao62/Ex-Bayesian-Logistic-Regression
+五、聚类
+	案例8：k均值算法的实现：https://blog.csdn.net/zpp1994/article/details/53456306
+	案例9：PAM算法的实现：https://blog.csdn.net/sinat_19596835/article/details/78303744
+	案例10：DBSCAN：https://blog.csdn.net/huacha__/article/details/81094891
+	案例11：层次聚类的实现：https://github.com/jindc/cluster/blob/master/LayerCluster.py
+	案例12：isodata聚类算法：https://gitee.com/iss2015302580266/Cluster_Algorithm/blob/master/test.py
+六、模糊聚类：
+	案例13： C均值聚类：https://blog.csdn.net/zwqhehe/article/details/75174918
+七、模拟退火算法
+	案例14：模拟退火算法的实现 https://blog.csdn.net/wfrainn/article/details/80303138
+	案例15：旅行商问题：https://blog.csdn.net/wfrainn/article/details/80328583
+	案例16：算法改进：（）
+八、遗传算法
+	案例17：遗传算法实现：https://github.com/zhaoxingfeng/Genetic-Algorithm/blob/master/GA/GA.py
+	案例18：通过遗传算法求解物流配送路径问题 https://github.com/zhongxiaolong1988/GeneticAlgorithm/blob/master/GA.py
+	案例19：遗传算法进行特征选择：https://github.com/Guangzhan/feature_selection_GAAlgorithm
+九、蚁群算法
+	案例20：蚁群算法实现：https://www.cnblogs.com/xxhbdk/p/9177423.html
+	案例21：城市最短距离：https://blog.csdn.net/fanxin_i/article/details/80380733
+十、粒子群算法：
+	案例21：例子群算法实现：https://github.com/hopesala/LQQ/blob/master/pso.py
+	案例23：基于粒子群优化算法的水务调度：https://github.com/wangqifan/dispatch
+
+机器学习部分：
+十一、knn算法
+	案例24：颜色分类：https://github.com/wmylxmj/kNN-practice-colour-classify
+	案例25：移动用户分类：https://github.com/ChatBotOS/kNN
+十二、决策树算法及实现：
+	案例26：波士顿房价预测：https://github.com/HuangBingjian/Boston_Predict
+十三、逻辑回归算法
+	案例27：逻辑回归：https://github.com/Jack-Cherish/Machine-Learning/tree/master/Logistic
+	案例28：客户评分 预测：https://github.com/leixingzhi7/risk_estimate_system
+十四、支持向量机：
+	案例29：感知器 https://github.com/carefree0910/machinelearning
+	案例30：线性svm https://github.com/carefree0910/MachineLearning/tree/master/e_SVM
+	案例31：非线性svm https://github.com/carefree0910/MachineLearning/tree/master/e_SVM
+	案例32：支持向量机的应用：https://github.com/ylfeng250/KDD99CupDataSet-SVM
+十五、预测数值型数据
+	案例33：线性回归的实现：https://www.cnblogs.com/kl2blog/p/7783085.html
+	案例34：lasso模型的实现：sklearn
+	案例35：线性回归的应用：波士顿房价预测
+十六、集成学习
+	案例36：AdaBoosting模型的实现；
+	案例37：反向传播算法的实现；
+	案例38：BP神经网络的实现和应用；
+	案例39：GBDT+LR
+	案例40：矩阵分解算法
+
+
+
+
+
+
